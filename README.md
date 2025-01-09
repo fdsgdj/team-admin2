@@ -1,3 +1,3 @@
 # team-admin2
-team-admin
+team-admi
 
